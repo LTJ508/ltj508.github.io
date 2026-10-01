@@ -30,9 +30,9 @@
       "period": "June 2026 – Present",
       "location": "Dhaka, Bangladesh",
       "bullets": [
-        "Teaching 3 lab sections across 2 courses, approximately 120 students total.",
-        "CSE225L (Data Structures & Algorithms Lab) – 2 Sections: Hands-on instruction in core data structures in C++ (arrays, linked lists, stacks, queues, trees, graphs).",
-        "CSE311L (Database Management System Lab) – 1 Section: Delivering instruction in MySQL/MariaDB (XAMPP, phpMyAdmin).",
+        "Teaching 6 lab sections across 2 courses, approximately 240 students total.",
+        "CSE225L (Data Structures & Algorithms Lab) – 4 Sections: Hands-on instruction in core data structures in C++ (arrays, linked lists, stacks, queues, trees, graphs).",
+        "CSE311L (Database Management System Lab) – 2 Sections: Delivering instruction in MySQL/MariaDB (XAMPP, phpMyAdmin).",
         "Authored CSE311L lab manuals featuring problem-first scenarios."
       ]
     }
@@ -47,6 +47,7 @@
       "bullets": [
         "Developed Outpatient Appointment System using Oracle APEX and PL/SQL.",
         "Participated in SRS Meetings with Client.",
+        "Collaborated with team members to deliver a functional web application.",
         "Part of Undergraduate Program under the supervision of Dr. Abu Sayed Md. Latiful Hoque."
       ],
       "links": {
